@@ -1,68 +1,68 @@
 # <p align="center">AiroIndia</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/airoindia2022/Git/main/airoindia_banner.png" alt="AiroIndia Banner" width="100%">
+<code><b>Artificial Intelligence & Robotics Organization</b></code>
 </p>
 
 <p align="center">
-  <strong>Intelligence Redefined • Future Ready</strong><br>
-  <em>Engineering the Autonomous Era</em>
+<b>Intelligence Redefined  •  Future Ready</b><br>
+<i>"Engineering the Autonomous Era"</i>
 </p>
 
 ---
 
-## 🚀 About AiroIndia
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🚀 MISSION & VISION
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**AiroIndia** (Artificial Intelligence and Robotics Organization) is a forward-thinking technology company dedicated to bridging the gap between academic learning and real-world industrial excellence. We empower the next generation of engineers and researchers by providing hands-on training and innovative solutions in the fields of AI, Robotics, and beyond.
+> **AiroIndia** is a premier technology organization dedicated to bridging the gap between academic theory and real-world industrial excellence. We empower researchers and engineers through hands-on innovation in AI, Robotics, and Advanced Computing.
 
-Our mission is to foster a global ecosystem of innovation, research, and technical excellence, making the world a better place through technology.
-
----
-
-## 🛠️ Our Core Services
-
-### 🧠 Technical Research & Development
-*   **AI Development Lab:** Advanced neural network design and implementation.
-*   **Robotics Research:** Engineering the future of autonomous systems.
-*   **Cyber Security:** Protecting the digital frontier with AI-driven security.
-*   **Cloud & Edge Computing:** Scalable architectures for the modern era.
-
-### 🎓 Education & Training
-*   **Industry-Ready Programs:** Bridging the academia-industry gap.
-*   **Internships & Mentorship:** Hands-on experience with industrial projects.
-*   **Certifications:** Supporting world-class technical certification paths.
-
-### 💼 Business & Startup Support
-*   **MSME Startup Registration:** Guidance for budding entrepreneurs.
-*   **Financial Consultancy:** Strategic planning for small businesses.
-*   **Startup Mentorship:** Empowering employees to turn ideas into reality.
+*   **Our Goal:** To nurture a global ecosystem of technical excellence.
+*   **Our Vision:** Making the world a better place through intelligent automation.
 
 ---
 
-## 🌐 Connect With Us
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ CORE DOMAINS
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-We are driving innovation in both local and global AI ecosystems. Let's build the future together!
+| Field | Focus Area | Description |
+| :--- | :--- | :--- |
+| **🧠 AI & ML** | Neural Networks | Developing advanced architectures for complex problem solving. |
+| **🤖 Robotics** | Autonomous Systems | Engineering the next generation of smart, independent machinery. |
+| **🛡️ Security** | Cyber Defense | Implementing AI-driven security protocols for digital assets. |
+| **☁️ Infrastructure**| Edge/Cloud | Scalable and efficient computing solutions for the modern era. |
 
-<p align="left">
-  <a href="https://airo-india.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-airoindia.live-blue?style=for-the-badge&logo=vercel" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/airo-india-a8ab153b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Airo%20India-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/AiroIndia2022" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@AiroIndia2022-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/airoindia/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@airoindia-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
-</p>
+---
 
-📧 **Email:** [airoindia20@gmail.com](mailto:airoindia20@gmail.com)  
-📍 **Location:** 129 1st Cross, Royal Placid Phase 1, HSR Sector 2 Extension, Harlur Road, Bangalore.
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🎓 PROFESSIONAL SERVICES
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*   **Industry-Ready Training** — bridging the skills gap for the next-gen workforce.
+*   **Startup Mentorship** — guiding MSMEs and budding entrepreneurs from idea to reality.
+*   **Research & Development** — collaborative labs for industrial project mentorship.
+*   **Placement Assistance** — connecting talent with industry leaders.
+
+---
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🌐 CONNECT WITH US
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+| Platform | Link |
+| :--- | :--- |
+| **🌍 Official Website** | [airoindia.live](https://airo-india.vercel.app/) |
+| **💼 LinkedIn** | [Airo India Official](https://www.linkedin.com/in/airo-india-a8ab153b6/) |
+| **🐦 Twitter (X)** | [@AiroIndia2022](https://x.com/AiroIndia2022) |
+| **📸 Instagram** | [@airoindia](https://www.instagram.com/airoindia/) |
+| **📘 Facebook** | [Airo India](https://www.facebook.com/share/1CWx6iMp6P/) |
+| **📧 Email** | [airoindia20@gmail.com](mailto:airoindia20@gmail.com) |
+
+> **Location:** 129 1st Cross, Royal Placid Phase 1, HSR Sector 2, Bangalore.
 
 ---
 
 <p align="center">
-  Made with ❤️ by AiroIndia Team
+  <code><b>© 2022 AiroIndia Team | Built with Passion for Innovation</b></code>
 </p>
