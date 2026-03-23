@@ -52,7 +52,7 @@
 
 | Platform | Link |
 | :--- | :--- |
-| **🌍 Official Website** | [airoindia.live](https://airo-india.vercel.app/) |
+| **🌍 Official Website** | [airoindia.nrt](https://airoindia.net/) |
 | **💼 LinkedIn** | [Airo India Official](https://www.linkedin.com/in/airo-india-a8ab153b6/) |
 | **🐦 Twitter (X)** | [@AiroIndia2022](https://x.com/AiroIndia2022) |
 | **📸 Instagram** | [@airoindia](https://www.instagram.com/airoindia/) |
